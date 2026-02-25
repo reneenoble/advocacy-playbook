@@ -47,6 +47,16 @@ Video is engaging, discoverable long after publication, and can be embedded in b
 - Include links in video descriptions
 - Write a companion blog post for extra reach
 
+## Real Examples
+
+| Content | What It Shows |
+|---------|---------------|
+| [GPS Learns AI](https://www.youtube.com/@gpslearnsai) | Personal YouTube channel covering Azure, Python, and AI — good example of building a dev audience |
+| [Marlene Mhangami's YouTube](https://www.youtube.com/@marlenezw) | Python project tutorials (animations, face detection, audiobooks) — shows how fun demos drive views |
+| [Gen AI for Beginners Video Series](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/generative-ai-for-beginners---full-videos-series-released/4183271) | Full video companion for the 21-lesson course — the course-to-video pipeline in action |
+| [Python + Agents series](https://aka.ms/PythonAgents/series) | Reactor livestream series that becomes evergreen YouTube content |
+| [RAG Deep Dive Series](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rag-deep-dive-watch-all-the-recordings/4383171) | Multi-part deep dive on azure-search-openai-demo — shows how one sample generates many videos |
+
 ## Links
 
 - [Microsoft Reactor YouTube](https://www.youtube.com/@microsoftreactor)

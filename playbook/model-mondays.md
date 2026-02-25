@@ -32,6 +32,13 @@ Your content doesn't need to be brand new — you can focus on a specific topic 
 - Have your links ready — docs, samples, getting-started guides
 - Pre-recording means you can get it right — take advantage of that
 
+## Real Examples
+
+| Content | What It Shows |
+|---------|---------------|
+| [python-openai-demos](https://github.com/Azure-Samples/python-openai-demos) | Short, focused demo scripts ideal for a 10-15 min Model Mondays segment |
+| [python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos) | Multi-framework examples — each framework can be a separate Model Mondays demo |
+
 ## Contact
 
 **Coordination:** April Gittens · **Host:** Nitya Narasimhan

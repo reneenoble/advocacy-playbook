@@ -55,6 +55,14 @@ Some products also have their own Discord communities — check if yours does.
 - [Microsoft Foundry Discord](https://discord.gg/nTYy5BXMWG)
 - [GitHub Discussions (async alternative)](https://github.com/microsoft-foundry/discussions)
 
+## Real Examples
+
+| Activity | What It Shows |
+|----------|---------------|
+| [Microsoft Foundry Discord](https://discord.gg/nTYy5BXMWG) (46k+ members) | AMAs, live support, and cross-server promotion — shows the long-term investment needed to make Discord work |
+| Model Mondays Friday AMAs | Structured weekly rhythm (demo Monday → AMA Friday) — shows how to pair content with community engagement |
+| [Generative AI for Beginners support](https://aka.ms/genai-discord) | The 107k-star course uses Discord for learner support — shows how courses feed Discord growth |
+
 **Contact:** Sarah Kaiser (Discord admin + cross-promotional channel setup)
 
 ---

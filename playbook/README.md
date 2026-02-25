@@ -54,20 +54,6 @@ We've also written up specific combo strategies:
 
 ---
 
-## Examples From the Team
-
-Want to see what good looks like? Search for content from these folks:
-
-- **Renee Noble** — Python, Copilot CLI/SDK
-- **Pamela Fox** — Python, Agent Framework, RAG apps
-- **Sarah Kaiser** — Python, Quantum, community
-- **April Gittens** — Python advocacy, PyCon coordination
-- **Gwyneth Peña-Siguenza** — Cloud advocacy, Azure
-- **Marlene Mhangami** — Python advocacy, community building
-- **Anthony Shaw** — Python, developer tools, automation
-
----
-
 This playbook is a living doc — if you've got tips or examples to add, please contribute!
 
 ---

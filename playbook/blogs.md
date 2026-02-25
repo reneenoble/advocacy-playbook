@@ -49,6 +49,15 @@ This works really well:
 - Link generously to samples, docs, and related content
 - Keep posts updated when things change
 
+## Real Examples
+
+| Blog | What It Shows |
+|------|---------------|
+| [tonybaloney.github.io](https://tonybaloney.github.io/#blog) | Personal dev blog with deep technical posts (CPython internals, PyPy in production) — drives SEO for niche Python topics |
+| [sckaiser.com/blog](https://www.sckaiser.com/blog/) | Blog alongside technical talks — good example of pairing written and spoken content |
+| [marlene.ai](http://marlene.ai/) | Personal site tying together advocacy, community, and content |
+| [Revolutionize your Enterprise Data with ChatGPT](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w-azure-openai-and/3762087) | Launch blog for azure-search-openai-demo — shows the blog+sample pattern at scale |
+
 ---
 
 [← Back to Playbook](./README.md)

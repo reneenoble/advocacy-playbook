@@ -39,6 +39,14 @@ Live demos with Q&A, broadcast on YouTube and kept as evergreen content. Great f
 - **Engage the chat throughout** — don't save all questions for the end
 - **Share follow-up links** — sample repo, docs, related content
 
+## Real Examples
+
+| Livestream | What It Shows |
+|------------|---------------|
+| [Python + AI Office Hours](https://aka.ms/pythonai/oh/links) | Recurring office hours format — live Q&A, community-driven topics, low-prep repeat series |
+| [Python + Agents series](https://aka.ms/PythonAgents/series) | Multi-part deep-dive series on agent frameworks — shows how to structure a topic across sessions |
+| [Py AI (SF)](https://pyai.events/) | In-person + streamed meetup — extends Reactor reach into local communities |
+
 ## Links
 
 - [Microsoft Reactor YouTube Channel](https://www.youtube.com/@microsoftreactor)

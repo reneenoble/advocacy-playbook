@@ -59,6 +59,17 @@ A few common patterns (discussed in the advocacy team meeting):
 - **Blogs** — write posts explaining your gallery template
 - **Videos** — record walkthroughs of deploying your template
 
+## Real Examples
+
+| Template/Gallery | What It Shows |
+|------------------|---------------|
+| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | 7.6k stars — the reference RAG app. Full AZD template with Codespaces, Bicep infra, and thorough docs |
+| [python-openai-demos](https://github.com/Azure-Samples/python-openai-demos) | 317 stars — short, focused OpenAI SDK examples for Azure OpenAI and GitHub Models |
+| [python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos) | 290 stars — multi-framework agent examples with AZD support |
+| [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos) | FastMCP with stdio/HTTP transports and Azure Container Apps deployment |
+| [Awesome Copilot](https://github.com/github/awesome-copilot) | 22k stars — community-driven agents, prompts, skills, and cookbook recipes for GitHub Copilot |
+| [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | Minimal chat app quickstart — good example of a focused, deploy-fast template |
+
 ## Links
 
 - [Awesome AZD Gallery](https://azure.github.io/awesome-azd/)
